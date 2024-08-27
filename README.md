@@ -1,8 +1,8 @@
 # 🔥 **DRAGON Braintree CC Checker** 🔥
 
-![GitHub](https://img.shields.io/github/license/god-dark-z/dragon-braintree-cc-checker?color=brightgreen)
-![GitHub issues](https://img.shields.io/github/issues/god-dark-z/dragon-braintree-cc-checker?color=blue)
-![GitHub stars](https://img.shields.io/github/stars/god-dark-z/dragon-braintree-cc-checker?color=yellow)
+![GitHub](https://img.shields.io/github/license/god-dark-z/BRAINTREE?color=brightgreen)
+![GitHub issues](https://img.shields.io/github/issues/god-dark-z/BRAINTREE?color=blue)
+![GitHub stars](https://img.shields.io/github/stars/god-dark-z/BRAINTREE?color=yellow)
 
 ## 🚀 Overview
 

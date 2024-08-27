@@ -3,6 +3,13 @@
 ![GitHub](https://img.shields.io/github/license/god-dark-z/BRAINTREE?color=brightgreen)
 ![GitHub issues](https://img.shields.io/github/issues/god-dark-z/BRAINTREE?color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/god-dark-z/BRAINTREE?color=yellow)
+![Build Status](https://img.shields.io/travis/god-dark-z/BRAINTREE?label=build&logo=travis)
+![Code Quality](https://img.shields.io/codeclimate/maintainability/god-dark-z/BRAINTREE?logo=codeclimate)
+![Coverage](https://img.shields.io/coveralls/github/god-dark-z/BRAINTREE?label=coverage&logo=coveralls)
+![GitHub Release](https://img.shields.io/github/release/god-dark-z/BRAINTREE?logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/god-dark-z/BRAINTREE?logo=github)
+![Dependencies](https://img.shields.io/david/god-dark-z/BRAINTREE?logo=npm)
+![Version](https://img.shields.io/github/tag/god-dark-z/BRAINTREE?label=version&logo=github)
 
 ## 🚀 Overview
 

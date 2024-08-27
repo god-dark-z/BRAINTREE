@@ -1,0 +1,6 @@
+requests
+user-agent
+bs4
+pyfiglet
+colorama
+getuseragent
